@@ -2,6 +2,15 @@
 
 Essa é só uma parte teste para os requisitos da entrega da disciplina FCCPD de Jorginho. 
 
+## Integrantes
+
+| Integrante | Perfil | Foto |
+| --- | --- | --- |
+| Davi Lucas | [github.com/davi081dev](https://github.com/davi081dev) | [![Davi Lucas](https://github.com/davi081dev.png?size=96)](https://github.com/davi081dev) |
+| Hugo Mendonça | [github.com/BRKHugz](https://github.com/BRKHugz) | [![Hugo Mendonça](https://github.com/BRKHugz.png?size=96)](https://github.com/BRKHugz) |
+| Luiz Fernando Ramos de Toledo | [github.com/FernandoToledo69](https://github.com/FernandoToledo69) | [![Luiz Fernando Ramos de Toledo](https://github.com/FernandoToledo69.png?size=96)](https://github.com/FernandoToledo69) |
+| Michel dos Santos Serpa | [github.com/serpamichel](https://github.com/serpamichel) | [![Michel dos Santos Serpa](https://github.com/serpamichel.png?size=96)](https://github.com/serpamichel) |
+
 ## Estrutura do projeto
 
 ```
