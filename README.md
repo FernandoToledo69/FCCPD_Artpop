@@ -16,13 +16,13 @@ Essa é só uma parte teste para os requisitos da entrega da disciplina FCCPD de
 ```
 marketplace-pernambuco/
 ├── src/marketplace/
-│   ├── Estoque.java              -> Requisitos 1 e 2
-│   ├── Pedido.java                -> Requisito 4
-│   ├── FilaDePedidos.java         -> Requisito 3
-│   ├── ProcessadorDePedidos.java  -> Requisitos 3, 4 e 5
-│   ├── LogConfiavel.java          -> Requisito 5
-│   └── Main.java                  -> Junta tudo em uma simulação
-├── DECLARACAO_USO_IA.md          -> Requisito 6
+│   ├── Estoque.java            
+│   ├── Pedido.java              
+│   ├── FilaDePedidos.java         
+│   ├── ProcessadorDePedidos.java  
+│   ├── LogConfiavel.java          
+│   └── Main.java                  
+├── DECLARACAO_USO_IA.md          
 └── README.md
 ```
 
