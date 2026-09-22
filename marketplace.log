@@ -1,0 +1,43 @@
+===== LOG DE EXECUCAO DO MARKETPLACE - 2026-09-22T13:34:25.781888500 =====
+[2026-09-22T13:34:25.783808500] [main] Iniciando marketplace de artesanato de Pernambuco...
+[2026-09-22T13:34:25.874056400] [pool-1-thread-6] Pedido ENVIADO para a fila: Pedido{id=cf7cc403..., cliente=Cliente-6, produto=Renda de Tracunhaem, quantidade=1}
+[2026-09-22T13:34:25.875054100] [pool-1-thread-8] Pedido ENVIADO para a fila: Pedido{id=d13f06ae..., cliente=Cliente-8, produto=Rede de Dormir de Caruaru, quantidade=1}
+[2026-09-22T13:34:25.876056800] [pool-1-thread-5] Pedido ENVIADO para a fila: Pedido{id=1da162a9..., cliente=Cliente-5, produto=Rede de Dormir de Caruaru, quantidade=1}
+[2026-09-22T13:34:25.876056800] [pool-1-thread-7] Pedido ENVIADO para a fila: Pedido{id=10910183..., cliente=Cliente-7, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.877057600] [pool-1-thread-1] Pedido ENVIADO para a fila: Pedido{id=2da4ae7c..., cliente=Cliente-1, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.877057600] [pool-1-thread-3] Pedido ENVIADO para a fila: Pedido{id=c03100b3..., cliente=Cliente-3, produto=Renda de Tracunhaem, quantidade=1}
+[2026-09-22T13:34:25.878057800] [pool-1-thread-4] Pedido ENVIADO para a fila: Pedido{id=c358b66c..., cliente=Cliente-4, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.878057800] [pool-1-thread-2] Pedido ENVIADO para a fila: Pedido{id=14c3a13c..., cliente=Cliente-2, produto=Rede de Dormir de Caruaru, quantidade=1}
+[2026-09-22T13:34:25.878057800] [pool-1-thread-6] Pedido ENVIADO para a fila: Pedido{id=69e841ce..., cliente=Cliente-9, produto=Renda de Tracunhaem, quantidade=1}
+[2026-09-22T13:34:25.879058] [pool-1-thread-8] Pedido ENVIADO para a fila: Pedido{id=1e04da77..., cliente=Cliente-10, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.879058] [pool-1-thread-5] Pedido ENVIADO para a fila: Pedido{id=0d62868e..., cliente=Cliente-11, produto=Rede de Dormir de Caruaru, quantidade=1}
+[2026-09-22T13:34:25.880055300] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=c358b66c..., cliente=Cliente-4, produto=Ceramica do Alto do Moura, quantidade=1} | estoque restante de 'Ceramica do Alto do Moura': 3
+[2026-09-22T13:34:25.880055300] [pool-1-thread-7] Pedido ENVIADO para a fila: Pedido{id=17c294c1..., cliente=Cliente-12, produto=Renda de Tracunhaem, quantidade=1}
+[2026-09-22T13:34:25.881056500] [pool-1-thread-1] Pedido ENVIADO para a fila: Pedido{id=d81e7db6..., cliente=Cliente-13, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.882057700] [pool-1-thread-3] Pedido ENVIADO para a fila: Pedido{id=e8a9b90f..., cliente=Cliente-14, produto=Rede de Dormir de Caruaru, quantidade=1}
+[2026-09-22T13:34:25.882057700] [pool-1-thread-4] Pedido ENVIADO para a fila: Pedido{id=2b7926d4..., cliente=Cliente-15, produto=Renda de Tracunhaem, quantidade=1}
+[2026-09-22T13:34:25.883058400] [pool-1-thread-2] Pedido ENVIADO para a fila: Pedido{id=c8507687..., cliente=Cliente-16, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.883058400] [pool-1-thread-6] Pedido ENVIADO para a fila: Pedido{id=794b7897..., cliente=Cliente-17, produto=Rede de Dormir de Caruaru, quantidade=1}
+[2026-09-22T13:34:25.884072100] [pool-1-thread-8] Pedido ENVIADO para a fila: Pedido{id=75872214..., cliente=Cliente-18, produto=Renda de Tracunhaem, quantidade=1}
+[2026-09-22T13:34:25.884072100] [pool-1-thread-5] Pedido ENVIADO para a fila: Pedido{id=e926837b..., cliente=Cliente-19, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.885062200] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=14c3a13c..., cliente=Cliente-2, produto=Rede de Dormir de Caruaru, quantidade=1} | estoque restante de 'Rede de Dormir de Caruaru': 5
+[2026-09-22T13:34:25.886056100] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=1da162a9..., cliente=Cliente-5, produto=Rede de Dormir de Caruaru, quantidade=1} | estoque restante de 'Rede de Dormir de Caruaru': 4
+[2026-09-22T13:34:25.886056100] [pool-1-thread-7] Pedido ENVIADO para a fila: Pedido{id=9c15975a..., cliente=Cliente-20, produto=Rede de Dormir de Caruaru, quantidade=1}
+[2026-09-22T13:34:25.887059] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=cf7cc403..., cliente=Cliente-6, produto=Renda de Tracunhaem, quantidade=1} | estoque restante de 'Renda de Tracunhaem': 4
+[2026-09-22T13:34:25.887059] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=10910183..., cliente=Cliente-7, produto=Ceramica do Alto do Moura, quantidade=1} | estoque restante de 'Ceramica do Alto do Moura': 2
+[2026-09-22T13:34:25.888055900] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=2da4ae7c..., cliente=Cliente-1, produto=Ceramica do Alto do Moura, quantidade=1} | estoque restante de 'Ceramica do Alto do Moura': 1
+[2026-09-22T13:34:25.888055900] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=d13f06ae..., cliente=Cliente-8, produto=Rede de Dormir de Caruaru, quantidade=1} | estoque restante de 'Rede de Dormir de Caruaru': 3
+[2026-09-22T13:34:25.889056200] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=c03100b3..., cliente=Cliente-3, produto=Renda de Tracunhaem, quantidade=1} | estoque restante de 'Renda de Tracunhaem': 3
+[2026-09-22T13:34:25.889056200] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=69e841ce..., cliente=Cliente-9, produto=Renda de Tracunhaem, quantidade=1} | estoque restante de 'Renda de Tracunhaem': 2
+[2026-09-22T13:34:25.890054800] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=1e04da77..., cliente=Cliente-10, produto=Ceramica do Alto do Moura, quantidade=1} | estoque restante de 'Ceramica do Alto do Moura': 0
+[2026-09-22T13:34:25.890054800] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=0d62868e..., cliente=Cliente-11, produto=Rede de Dormir de Caruaru, quantidade=1} | estoque restante de 'Rede de Dormir de Caruaru': 2
+[2026-09-22T13:34:25.891056300] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=17c294c1..., cliente=Cliente-12, produto=Renda de Tracunhaem, quantidade=1} | estoque restante de 'Renda de Tracunhaem': 1
+[2026-09-22T13:34:25.891056300] [Processador-Pedidos] Pedido RECUSADO (sem estoque suficiente): Pedido{id=d81e7db6..., cliente=Cliente-13, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.892055600] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=e8a9b90f..., cliente=Cliente-14, produto=Rede de Dormir de Caruaru, quantidade=1} | estoque restante de 'Rede de Dormir de Caruaru': 1
+[2026-09-22T13:34:25.892055600] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=2b7926d4..., cliente=Cliente-15, produto=Renda de Tracunhaem, quantidade=1} | estoque restante de 'Renda de Tracunhaem': 0
+[2026-09-22T13:34:25.893056800] [Processador-Pedidos] Pedido RECUSADO (sem estoque suficiente): Pedido{id=c8507687..., cliente=Cliente-16, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.893056800] [Processador-Pedidos] Pedido CONFIRMADO: Pedido{id=794b7897..., cliente=Cliente-17, produto=Rede de Dormir de Caruaru, quantidade=1} | estoque restante de 'Rede de Dormir de Caruaru': 0
+[2026-09-22T13:34:25.894054900] [Processador-Pedidos] Pedido RECUSADO (sem estoque suficiente): Pedido{id=75872214..., cliente=Cliente-18, produto=Renda de Tracunhaem, quantidade=1}
+[2026-09-22T13:34:25.894054900] [Processador-Pedidos] Pedido RECUSADO (sem estoque suficiente): Pedido{id=e926837b..., cliente=Cliente-19, produto=Ceramica do Alto do Moura, quantidade=1}
+[2026-09-22T13:34:25.895058800] [Processador-Pedidos] Pedido RECUSADO (sem estoque suficiente): Pedido{id=9c15975a..., cliente=Cliente-20, produto=Rede de Dormir de Caruaru, quantidade=1}
+[2026-09-22T13:34:26.239946100] [Processador-Pedidos] Processador de pedidos finalizado.
